@@ -4,7 +4,7 @@
 Ubuntu 21.04-based container images with GStreamer and plugins pre-installed\
 supports `arm64` `armv7` `amd64`
 Following components are present:
-* GStreamer
+* GStreamer 1.18.4
 * gst-plugins-base
 * gst-plugins-good
 * gst-plugins-bad
