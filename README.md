@@ -8,5 +8,6 @@ Following components are present:
 * gst-plugins-base
 * gst-plugins-good
 * gst-plugins-bad
+* gst-plugins-ugly
 
 Base OS is Ubuntu 21.04.
