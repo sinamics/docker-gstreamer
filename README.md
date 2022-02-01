@@ -1,7 +1,5 @@
-# Multiarch gstreamer images
-
-# docker-gstreamer
-[![Docker Pulls](https://img.shields.io/docker/pulls/restreamio/gstreamer)](https://hub.docker.com/r/restreamio/gstreamer)
+# Multiarch gstreamer docker images
+[![Docker Pulls](https://img.shields.io/docker/pulls/sinamics/gstreamer)](https://hub.docker.com/repository/docker/sinamics/gstreamer)
 
 Ubuntu 21.04-based container images with upstream GStreamer and plugins pre-installed
 
