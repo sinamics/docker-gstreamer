@@ -13,7 +13,7 @@ Following components are present:
 ## Usage
 Examples:\
 Gst test video. (change host ip to match yours)
-```python
+```docker
 docker run --rm -it sinamics/gstreamer videotestsrc ! x264enc ! video/x-h264, stream-format=byte-stream ! rtph264pay ! udpsink host=10.0.0.49 port=5600
 ```
 
